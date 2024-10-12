@@ -1,2 +1,3 @@
 Hello man 
 MAde change 1
+This is a change from branch-A.
