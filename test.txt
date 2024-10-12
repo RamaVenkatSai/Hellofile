@@ -1,2 +1,4 @@
 Hello man how are you assed a test file now 
 Made some changes while switching to branch A
+I want to make some changes in branch B
+cjvu hdjiv ndfvndfiuvndfviunfvndmkjdfnviuf
